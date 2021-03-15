@@ -1,0 +1,33 @@
+html {
+    font-size: 20px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html { /* Changer la couleur du fond de la page */
+    background-color: #84b3df;
+}
+body { /* Mettre en forme le corps de page */
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 { /* Positionner le titre et le mettre en forme */
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+img { /* Centrer l'image */
+    display: block;
+    margin: 0 auto;
+}

@@ -1,0 +1,9 @@
+1) Take VSCode
+2) Right click on the file in left pane
+3) Click "Reveal in explorer" from context menu
+4) Right click on the file -> Select "Open with" -> Select "Choose another program"
+5) Check box "Always use this app to open .js file"
+6) Click "More apps" -> "Look for another app in PC"
+7) Navigate to node.js installation directory.(Default C:\Program Files\nodejs\node.exe"
+8) Click "Open" and you can just see cmd flashing
+9) Restart vscode and open the file -> Terminal Menu -> "Run active file".
